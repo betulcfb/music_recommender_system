@@ -1,0 +1,35 @@
+TANITIM
+
+ Music Recommender System /  Müzik Öneri Sistemi
+
+
+
+English
+This project is a music recommendation system that uses Natural Language Processing (NLP) techniques to analyze YouTube video descriptions and suggest music based on the content. By focusing on video descriptions, the system aims to provide personalized recommendations using content-based filtering.
+
+Key Features:
+Data Collection: Dataset sourced from Kaggle.
+Text Preprocessing: Descriptions are cleaned, tokenized, and processed to remove stopwords and special characters.
+Feature Extraction: TF-IDF is used to convert text into numerical representations for analysis.
+Recommendation Model: A content-based filtering approach is applied to find videos with similar descriptions.
+User Interaction: Users can input their preferences (e.g., video URLs or keywords) to receive music recommendations based on text similarity.
+Technologies Used:
+Python (pandas, scikit-learn, NLTK)
+NLP (TF-IDF, tokenization, stopword removal)
+Machine Learning (content-based filtering)
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+Türkçe
+Bu proje, YouTube video açıklamalarını analiz ederek içerik tabanlı müzik önerileri sunan bir sistemdir. Doğal Dil İşleme (NLP) teknikleri kullanılarak video açıklamalarından elde edilen verilerle, kullanıcıya kişiselleştirilmiş müzik önerileri yapılır.
+
+Temel Özellikler:
+Veri Toplama: Kaggle üzerinden alınan veri seti kullanıldı.
+Metin Ön İşleme: Video açıklamaları temizlenerek, stopword'ler ve özel karakterler çıkarıldı, metin tokenize edilerek işlendi.
+Özellik Çıkarma: Metin, TF-IDF yöntemi kullanılarak sayısal verilere dönüştürüldü.
+Öneri Modeli: İçerik tabanlı filtreleme yöntemi kullanılarak, benzer açıklamalara sahip videolar önerilir.
+Kullanıcı Etkileşimi: Kullanıcılar, video URL'si veya ilgi duydukları anahtar kelimeleri girerek müzik önerileri alabilirler.
+Kullanılan Teknolojiler:
+Python (pandas, scikit-learn, NLTK)
+Doğal Dil İşleme (TF-IDF, tokenizasyon, stopword temizleme)
+Makine Öğrenmesi (içerik tabanlı filtreleme)
