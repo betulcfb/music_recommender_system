@@ -21,7 +21,7 @@ Machine Learning (content-based filtering)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 Türkçe
-Bu proje, YouTube video açıklamalarını analiz ederek içerik tabanlı müzik önerileri sunan bir sistemdir. Doğal Dil İşleme (NLP) teknikleri kullanılarak video açıklamalarından elde edilen verilerle, kullanıcıya kişiselleştirilmiş müzik önerileri yapılır.
+Bu proje,  video açıklamalarını analiz ederek içerik tabanlı müzik önerileri sunan bir sistemdir. Doğal Dil İşleme (NLP) teknikleri kullanılarak video açıklamalarından elde edilen verilerle, kullanıcıya kişiselleştirilmiş müzik önerileri yapılır.
 
 Temel Özellikler:
 Veri Toplama: Kaggle üzerinden alınan veri seti kullanıldı.
